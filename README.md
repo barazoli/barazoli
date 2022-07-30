@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente estou estagiando com suporte tecnico
 - 🌱 Estou estudando HTML, CSS e JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contato:rodrigobarazoli@gmail.com
 
 <div align="center" >
