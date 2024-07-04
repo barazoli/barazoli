@@ -1,7 +1,7 @@
 ### Bem Vindo 👋
 
 - 🔭 Sou Trainee atualmente
-- 🌱 Estou estudando HTML, CSS e JS
+- 🌱 Estou estudando JS e Nest
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contato:rodrigobarazoli@gmail.com
 
