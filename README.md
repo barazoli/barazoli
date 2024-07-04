@@ -1,6 +1,6 @@
 ### Bem Vindo 👋
 
-- 🔭 Atualmente estou estagiando com suporte tecnico
+- 🔭 Sou Trainee atualmente
 - 🌱 Estou estudando HTML, CSS e JS
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contato:rodrigobarazoli@gmail.com
