@@ -1,7 +1,7 @@
 ### Bem Vindo 👋
 
-- 🔭 Sou Trainee atualmente
-- 🌱 Estou estudando JS e Nest
+- 🔭 Estou em busca de uma oportunidade
+- 🌱 Estou estudando backend Java
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contato:rodrigobarazoli@gmail.com
 
